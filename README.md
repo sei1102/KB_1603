@@ -71,8 +71,10 @@ Greeting を起動すると読み取り機能が動作するので，贈られ�
 
 ## 開発技術
 ### 活用した外部技術
+
 ### 開発環境
 * Unity http://japan.unity3d.com/
+
 ### フレームワーク・ライブラリ・モジュール
 * Vuforia https://developer.vuforia.com/
 
