@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Degimon_02" size="10.000000 10.000000" />
+    <ImageTarget name="Degimon_01" size="10.000000 9.270387" />
+    <ImageTarget name="Pigmon_01" size="10.000000 17.921146" />
+    <ImageTarget name="Dedenne_01" size="10.000000 8.627451" />
+    <ImageTarget name="CloverIR_04" size="10.000000 9.527027" />
+    <ImageTarget name="CloverIR_03" size="10.000000 9.527027" />
+    <ImageTarget name="CloverIR_02" size="10.000000 9.527027" />
+    <ImageTarget name="CloverIR_01" size="10.000000 8.769231" />
+    <ImageTarget name="Human_01" size="10.000000 11.266666" />
+    <ImageTarget name="MyMarker_04" size="10.000000 10.000000" />
+    <ImageTarget name="MyMarker_03" size="10.000000 10.000000" />
+    <ImageTarget name="MyMarker_02" size="10.000000 10.000000" />
+    <ImageTarget name="MyMarker_01" size="10.000000 10.000000" />
+    <ImageTarget name="Omori_03" size="10.000000 10.021119" />
+    <ImageTarget name="Omori_02" size="10.000000 9.989496" />
+    <ImageTarget name="Omori_01" size="10.000000 9.989496" />
+    <ImageTarget name="Leaf01" size="10.000000 7.500000" />
+    <ImageTarget name="Clorver_Image" size="10.000000 6.670000" />
+    <ImageTarget name="Clover_02" size="10.000000 6.670000" />
+    <ImageTarget name="Clover_01" size="10.000000 6.670000" />
+    <ImageTarget name="KU_01A" size="10.000000 8.091354" />
+    <ImageTarget name="KU_05" size="100.000000 103.317535" />
+    <ImageTarget name="KU_04" size="100.000000 52.891396" />
+    <ImageTarget name="KU_03" size="100.000000 100.000000" />
+    <ImageTarget name="KU_02" size="100.000000 100.000000" />
+    <ImageTarget name="KU_01" size="100.000000 80.913544" />
+    <ImageTarget name="Kaiser_03" size="100.000000 100.000000" />
+    <ImageTarget name="Kaiser_01" size="100.000000 100.000000" />
+    <ImageTarget name="Clovers" size="10.000000 6.670000" />
+    <ImageTarget name="PokemonMovie" size="1.000000 0.346667" />
+    <ImageTarget name="Pokemon20th" size="1.000000 0.726000" />
+    <ImageTarget name="PokemonLogo" size="1.000000 1.000000" />
+    <ImageTarget name="Tachibana-015" size="100.000000 100.000000" />
+    <ImageTarget name="Tsuru-007" size="100.000000 100.000000" />
+    <ImageTarget name="Sasa-125" size="100.000000 100.000000" />
+    <ImageTarget name="Kiri-107" size="100.000000 87.250000" />
+    <ImageTarget name="Kikyo-002" size="100.000000 100.000000" />
+    <ImageTarget name="Kaku-001" size="100.000000 100.000000" />
+    <ImageTarget name="Cho-009" size="100.000000 97.750000" />
+    <ImageTarget name="Sasa-131" size="100.000000 93.000000" />
+    <ImageTarget name="Mamori-034" size="100.000000 96.750000" />
+    <ImageTarget name="Kikko-013" size="100.000000 100.000000" />
+    <ImageTarget name="Ka-109" size="100.000000 98.250000" />
+    <ImageTarget name="Aoi-094" size="100.000000 100.000000" />
+  </Tracking>
+</QCARConfig>

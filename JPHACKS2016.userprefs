@@ -1,0 +1,43 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MyFolder/SNSShareScript.cs">
+    <Files>
+      <File FileName="Assets/MyFolder/CloudUpLoading.cs" Line="191" Column="46" />
+      <File FileName="Assets/Vuforia/Scripts/ImageTargetBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/Internal/VuforiaBehaviourComponentFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/DatabaseLoadBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/VuforiaBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyFolder/WebBrowserScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/TurnOffBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyFolder/UnityChan/Scripts/SceneLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyFolder/NetworkManager.cs" Line="34" Column="1" />
+      <File FileName="Assets/NewBehaviourScript.cs" Line="4" Column="1" />
+      <File FileName="Assets/CharacterSelect.cs" Line="8" Column="2" />
+      <File FileName="Assets/MyFolder/MyCanvas.cs" Line="13" Column="39" />
+      <File FileName="Assets/MyFolder/Mybutton.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyFolder/MyButton2.cs" Line="1" Column="1" />
+      <File FileName="Assets/MyFolder/SNSShareScript.cs" Line="16" Column="198" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JPHACKS2016" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="MyFolder" expanded="True">
+                <Node name="SNSShareScript.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="Assembly-CSharp-Editor" expanded="True" />
+            <Node name="Assembly-CSharp-firstpass" expanded="True" />
+            <Node name="Assembly-UnityScript" expanded="True" />
+            <Node name="Assembly-UnityScript-Editor-firstpass" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
